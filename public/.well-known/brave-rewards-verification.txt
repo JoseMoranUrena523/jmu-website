@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: josemoranurena.tech
-Token: 916343b5022ae2eb0c6f3385fdc6b0aa0f930922837c2b6cd27ec9d0ba56e29c
